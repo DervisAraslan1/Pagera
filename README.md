@@ -45,3 +45,7 @@ flutter build apk --release --target-platform android-arm64
 | `tool/` | PDF ölçüm araçları ve simge üretici |
 
 Yazı tipleri (Fraunces, Literata, Inter) SIL Open Font License ile uygulamaya gömülüdür.
+
+## Lisans
+
+MIT. Ayrıntılar [LICENSE](LICENSE) dosyasında.
