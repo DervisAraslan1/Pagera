@@ -4,6 +4,8 @@ Reels kaydırmak yerine kitap okumayı alışkanlık haline getiren Android uygu
 
 Açılış ekranı bir kütüphane rafı: kitap sırtları rafta durur, dokununca raftan çekilir ve okunur. PDF'ler doğrudan gösterilmez; içe aktarılırken bir kez temiz metne "ciltlenir", okuma uygulamanın kendi tipografisiyle yapılır.
 
+![Pagera ekranları: raf, kitap, okuyucu, sayfa ayarları, içe aktarma](docs/ekranlar.png)
+
 ## Özellikler
 
 - **Ciltleme:** PDF, EPUB ve TXT içe aktarılır. Paragraflar satır konumlarından bulunur; sayfa numaraları, tekrar eden üst/alt bilgiler ve satır sonu tireleri temizlenir. Metni olmayan (taranmış) PDF'lerde cihazda OCR çalışır.
