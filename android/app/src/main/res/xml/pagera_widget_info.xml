@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- updatePeriodMillis=0: widget kendi kendine hiç uyanmaz; yalnız uygulama veri yazınca güncellenir. -->
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:minWidth="180dp"
+    android:minHeight="110dp"
+    android:targetCellWidth="3"
+    android:targetCellHeight="2"
+    android:resizeMode="horizontal|vertical"
+    android:updatePeriodMillis="0"
+    android:initialLayout="@layout/pagera_widget"
+    android:previewLayout="@layout/pagera_widget"
+    android:description="@string/widget_desc"
+    android:widgetCategory="home_screen" />
